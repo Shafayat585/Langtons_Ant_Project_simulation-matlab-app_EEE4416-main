@@ -1,0 +1,10 @@
+Steps:
+1. Open langtons_ant.m file
+2. Add path(File location) to directory
+3. For giving input:
+   Write: langtons_ant(160,12000,100); % for example  in the Command Window
+   1st number is the grid size
+   2nd number is the number of steps done by ant
+   3rd number is for speed limit
+4. After writing " langtons_ant(160,12000,100); " in Command Window, press Enter.
+5. Code will run and output will be displayed. 
