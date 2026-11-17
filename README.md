@@ -384,5 +384,5 @@ The objective of the project was to apply MATLAB programming and simulation conc
 
 ## Author / Repository Maintainer
 
-**Ar-Rafi Ishraq**  
+**Shafayat-Ul-Firoz**  
 Electrical and Electronic Engineering
