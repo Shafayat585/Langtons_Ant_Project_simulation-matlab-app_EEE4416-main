@@ -350,7 +350,7 @@ This project was completed as a group project for **EEE 4416 — Simulation Lab*
 
 ### Group Members
 
-- Shahriar Islam
+- Shafayat-Ul-Firoz
 - Ahmed Lutfe Inam
 - Md. Iftimum Ul Haque
 - Ar-Rafi Ishraq
